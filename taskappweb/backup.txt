@@ -1,0 +1,12 @@
+<div class="task-entry">
+    <div class="task-entry-desc">
+        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis dolorem amet ut repellat dolor veritatis et, eligendi voluptatem tempore facere officiis possimus harum quod? Sed tenetur quibusdam voluptatibus alias accusamus!Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quis dolorem amet ut repellat dolor veritatis et, eligendi voluptatem tempore facere officiis possimus harum quod? Sed tenetur quibusdam voluptatibus alias accusamus!
+    </div>
+    <div class="task-entry-date">
+        29-10-2022 22:30
+    </div>
+    <div class="task-entry-buttons">
+        <div class="task-entry-button accept">Görevi Al</div>
+        <div class="task-entry-button deliver">Teslim Et</div>
+    </div>
+</div>
